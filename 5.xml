@@ -1,0 +1,32 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<!DOCTYPE HTML>
+<html>
+<Students>
+<student>
+<usn>USN:4BD15CS011</usn>
+<name>NAME:Akshay Hiremath</name>
+<college>COLLEGE:BIET</college>
+<year>YEAR:2015-2019</year>
+<email>EMAIL:akshay@gmail.com</email>
+<branch>BRANCH:CSE</branch>
+</student>
+
+<student>
+<usn>USN:4BD15CS023</usn>
+<name>NAME:Arshiya A</name>
+<college>COLLEGE:BIET</college>
+<year>YEAR:2015-2019</year>
+<email>EMAIL:arshiya@gmail.com</email>
+<branch>BRANCH:CSE</branch>
+</student>
+
+<student>
+<usn>USN:4BD15CS089</usn>
+<name>NAME:Sakshi Painuli</name>
+<college>COLLEGE:Graphic Era</college>
+<year>YEAR:2014-2018</year>
+<email>EMAIL:sakshu@gmail.com</email>
+<branch>BRANCH:BIOTECH</branch>
+</student>
+</Students>
+</html>
